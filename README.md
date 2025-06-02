@@ -1,1 +1,2 @@
-# week7-basic-analytics-Pema-Choden
+Name: Pema Choden Course: CPSC 201-Business Information System Summary: first i analyzed the dataset using python and the used the same dataset in excel to genarate the task given and saw that we can get the same result. submitted all three files insights: from this task i saw that for shipping mode standard class was used most whereas in terms of sales west has the highest sales. python is efficient and excel is visual and manual.
+
